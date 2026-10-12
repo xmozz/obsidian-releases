@@ -61535,5 +61535,12 @@
     "author": "Finn-Christopher Krause",
     "description": "Automatically move completed tasks to the bottom of each Markdown task list, keeping subtasks attached and surrounding text in place. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "finnxwz/tidytasks"
-  }
+  },
+  {
+		"id": "opencode-sync",
+		"name": "OpenCode Sync",
+		"author": "xmozz",
+		"description": "Chat with the OpenCode agent (requires opencode 2.x) in a side panel. Answers render as Obsidian Markdown and use Obsidian syntax. Shares native sessions with the CLI - no extra files.",
+		"repo": "xmozz/opencode-obsidian-plugin"
+	}
 ]
